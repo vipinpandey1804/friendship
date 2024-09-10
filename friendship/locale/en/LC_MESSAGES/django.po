@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-11 13:36+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\friendship\models.py:96
+msgid "Message"
+msgstr ""
+
+#: .\friendship\models.py:103
+msgid "Friendship Request"
+msgstr ""
+
+#: .\friendship\models.py:104
+msgid "Friendship Requests"
+msgstr ""
+
+#: .\friendship\models.py:286
+msgid "Users cannot be friends with themselves"
+msgstr ""
+
+#: .\friendship\models.py:289
+msgid "Users are already friends"
+msgstr ""
+
+#: .\friendship\models.py:294
+msgid "You already requested friendship from this user."
+msgstr ""
+
+#: .\friendship\models.py:299
+msgid "This user already requested friendship from you."
+msgstr ""
+
+#: .\friendship\models.py:304
+msgid "You blocked this user."
+msgstr ""
+
+#: .\friendship\models.py:309
+msgid "User blocked you."
+msgstr ""
+
+#: .\friendship\models.py:319
+msgid "Friendship already requested"
+msgstr ""
+
+#: .\friendship\models.py:391
+msgid "Friend"
+msgstr ""
+
+#: .\friendship\models.py:392
+msgid "Friends"
+msgstr ""
+
+#: .\friendship\models.py:401
+msgid "Users cannot be friends with themselves."
+msgstr ""
+
+#: .\friendship\models.py:435
+msgid "Users cannot follow themselves"
+msgstr ""
+
+#: .\friendship\models.py:442
+#, python-brace-format
+msgid "User '{follower}' already follows '{followee}'"
+msgstr ""
+
+#: .\friendship\models.py:494
+msgid "Following Relationship"
+msgstr ""
+
+#: .\friendship\models.py:495
+msgid "Following Relationships"
+msgstr ""
+
+#: .\friendship\models.py:504
+msgid "Users cannot follow themselves."
+msgstr ""
+
+#: .\friendship\models.py:538
+msgid "Users cannot block themselves"
+msgstr ""
+
+#: .\friendship\models.py:545
+#, python-brace-format
+msgid "User '{blocker}' already blocks '{blocked}'"
+msgstr ""
+
+#: .\friendship\models.py:599
+msgid "Blocked Relationship"
+msgstr ""
+
+#: .\friendship\models.py:600
+msgid "Blocked Relationships"
+msgstr ""
+
+#: .\friendship\models.py:609
+msgid "Users cannot block themselves."
+msgstr ""
+
+#: .\friendship\views.py:25
+msgid "request has been sent"
+msgstr ""
+
+#: .\friendship\views.py:40
+msgid "request accepted"
+msgstr ""
+
+#: .\friendship\views.py:55
+msgid "request rejected"
+msgstr ""
+
+#: .\friendship\views.py:70
+msgid "request cancelled"
+msgstr ""
+
+#: .\friendship\views.py:145
+msgid "follower added"
+msgstr ""
+
+#: .\friendship\views.py:161
+msgid "follower removed"
+msgstr ""
+
+#: .\friendship\views.py:206
+msgid "user blocked"
+msgstr ""
+
+#: .\friendship\views.py:222
+msgid "remove block user"
+msgstr ""
